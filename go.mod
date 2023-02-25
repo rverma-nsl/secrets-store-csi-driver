@@ -13,7 +13,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	go.opentelemetry.io/otel v0.13.0
 	go.opentelemetry.io/otel/exporters/metric/prometheus v0.13.0
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+	golang.org/x/net v0.7.0
 	google.golang.org/grpc v1.29.1
 	google.golang.org/protobuf v1.25.0
 	k8s.io/api v0.20.2
